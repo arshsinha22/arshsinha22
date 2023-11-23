@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Arsh Sinha</h1>
-<h2 align="center">CSE Sophomore at IIITDMJ</h3>
+<h2 align="center">CSE Sophomore</h3>
 <h3 align="center">A beginner frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshsinha22&label=Profile%20views&color=0e75b6&style=flat" alt="arshsinha22" /> </p>
